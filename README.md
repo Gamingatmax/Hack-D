@@ -12,3 +12,6 @@ then open command promt and type in:
 and then:
 
   pip install bs4
+  
+  
+when this is done go to the folder and click start.bat
